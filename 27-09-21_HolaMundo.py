@@ -1,7 +1,0 @@
-print("HOLA MUNDO")
-print("My name is")
-print("Elisa Viveros")
-print("I'm on 9th grade")
-print("On group C")
-print("I don't have a favorite food")
-print("I love sports")
