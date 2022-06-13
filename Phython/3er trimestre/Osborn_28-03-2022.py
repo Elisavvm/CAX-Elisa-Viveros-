@@ -483,14 +483,15 @@ print("You are going to fight with the craquen at the bottom of the sea")
 print("no matter who are you,you can beat it")
 print("now you are going to continue walking until you see the craquen")
 print("press enter to walk")
-input()
-input()
-input()
-input()
-input()
-print("the time has arrived the kraken is in front of you")
+input("-")
+input("-")
+input("-")
+input("-")
+input("-")
+print("The time has arrived, the kraken is in front of you")
 print("use your powers to beat it")
 fin=input("Press 'a' if you are kirby, press 'b' if you are Nathan Drake or press 'c' if you are Ken")
+
 if(fin=="a"):
   print("Kirby, use your magical powers to kill him")
   print("get into a tentacle and then throw your elixir into his face, with that you will kill him")
@@ -509,14 +510,15 @@ if(fin=="a"):
   print("Nice! You killed him")
   print("But wait, your mission was to save dr. Osborn")
   print("Where is he?")
+  input()
   print("Look for him, maybe he is behind the kraken or inside of it")
   print("Keep walking until you find him")
   input()
   print("STOP")
   print("You found Dr. Osborn")
-  print("now you can take him to a safe place")
-  print("Dr.Osborn: Thank you for saving me from the beast")
-  ptint("Now you are free")
+  print("now you can take him safe place")
+  print("Dr.Osborn: thank you for saving me from the beast")
+  print("Now you are free")
   print("****GAME OVER****")
 
 if(fin=="b"):
@@ -544,7 +546,7 @@ if(fin=="b"):
   print("You found Dr. Osborn")
   print("now you can take him to a safe place")
   print("Dr.Osborn: Thank you for saving me from the beast")
-  ptint("Now you are free")
+  print("Now you are free")
   print("****GAME OVER****")
 
 if(fin=="c"):
@@ -572,19 +574,6 @@ if(fin=="c"):
   print("You found Dr. Osborn")
   print("now you can take him to a safe place")
   print("Dr.Osborn: Thank you for saving me from the beast")
-  ptint("Now you are free")
+  print("Now you are free")
   print("****GAME OVER****")
-
-print(""░░░▄▄
-░░░░░░░░░░█░░█
-░░░░░░░░░░█░░█
-░░░░░░░░░█░░░█
-░░░░░░░░█░░░░█
-██████▄▄█░░░░░██████▄
-▓▓▓▓▓█░░░░░░░░░░░░░░█
-▓▓▓▓▓█░░░░░░░░░░░░░░█
-▓▓▓▓▓█░░░░░░░░░░░░░░█
-▓▓▓▓▓█░░░░░░░░░░░░░░█
-▓▓▓▓▓█░░░░░░░░░░░░░░█
-▓▓▓▓▓█████░░░░░░░░░█
-█████▀░░░░▀▀██████▀")
+print("ʕ◉ᴥ◉ʔ")
